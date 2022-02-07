@@ -1,0 +1,15 @@
+package learningjava;
+
+import java.util.Scanner;
+
+public class matrix {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Eneter the array length");
+		Scanner sc = new Scanner(System.in);
+		int len = sc.nextInt();
+		System.out.println(len);
+	}
+
+}
